@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="代码分析器:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="代码分析器.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$APPLICATION_HOME_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="代码分析器" />
+      <element id="extracted-dir" path="D:/新建文件夹 (2)/beautyeye_lnf.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
